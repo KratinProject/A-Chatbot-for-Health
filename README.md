@@ -1,4 +1,4 @@
-# :two_hearts: A-Chatbot for Health 🤖
+# A-Chatbot for Health 🤖
 Machine Learning Project
 
 A-Chatbot for Health is a Healthcare Domain Chatbot to simulate the predictions of a General Physician.
